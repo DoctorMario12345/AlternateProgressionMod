@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " G ",
+        " G ",
+        "CCC"
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "minecraft:cobblestone"
+        },
+        "G":
+        {
+            "item": "minecraft:gold_nugget"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:brewing_stand",
+        "count": 1
+    }
+}

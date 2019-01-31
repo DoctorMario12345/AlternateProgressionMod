@@ -1,0 +1,12 @@
+// Items
+item.test_item.name=Test Item
+item.test_sword.name=Test Sword
+item.test_shovel.name=Test Shovel
+item.test_pickaxe.name=Test Pickaxe
+item.test_axe.name=Test Axe
+item.test_hoe.name=Test Hoe
+
+
+// Blocks
+tile.test_block.name=Test Block
+tile.test_ore.name=Test Ore

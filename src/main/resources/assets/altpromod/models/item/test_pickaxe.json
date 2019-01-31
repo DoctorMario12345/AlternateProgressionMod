@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "altpromod:items/test_pickaxe"
+    }
+}
